@@ -12,7 +12,7 @@ wireshark file
 2	0.000127	10.10.17.198	10.10.10.245	TCP	68	55140 → 80 [ACK] Seq=1 Ack=1 Win=502 Len=0 TSval=1510724671 TSecr=733457614
 3	0.658065	10.10.17.198	10.10.10.245	TCP	68	[TCP Dup ACK 1#1] 55142 → 80 [ACK] Seq=1 Ack=1 Win=502 Len=0 TSval=1510725044 TSecr=733458534
 
-##Hints
+## Hints
 
 For user, I would find a tool good for reading pcap files. There's a tool named after a fish (that has an entire week dedicated to it) that I found useful for this.
 
